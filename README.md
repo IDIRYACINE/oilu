@@ -27,7 +27,7 @@ Put the camParams and oiluParams into the same folder.
 1. [Introduction Paper](https://publications.waset.org/10012229/oilu-tag-a-projective-invariant-fiducial-system)
 2. [Homogles Paper](#)
 3. [Contacts](#contacts)
-4. [Research Team](#researchteam)
+4. [Research Team](#research-team)
 5. [Note](#note)
 6. [Data](#data)
 7. [Usage](#usage)
