@@ -5,6 +5,20 @@ A new ar marker proposing a new numerating system and a homogless(no homography)
 
 [Homogles Paper](#)
 
+Developed in the [Université Mohamed El Bachir El Ibrahimi](https://www.univ-bba.dz/)
+
+Marker Website [oilucode.net](https://oilucode.net/)
+
+### Contacts
+- Email : hello@oilucode.net 
+- Phone :  00213-111-11111111
+
+### Research Team
+- [Professor Mostefai Messaoud](https://scholar.google.com/citations?user=HthK96IAAAAJ&hl=en)
+- [Belhadj Foudil](https://scholar.google.com/citations?user=GB1_-gEAAAAJ&hl=fr)
+- [Bengueddoudj Abdallah](https://scholar.google.com/citations?user=PxzaG5AAAAAJ&hl=fr)
+- [Idir Yacine . Lead developer and contributor](https://github.com/IDIRYACINE)
+
 # Note
 The provided binaries are compiled and tested under linux (fedora and ubuntu).
 Put the camParams and oiluParams into the same folder.
@@ -12,25 +26,33 @@ Put the camParams and oiluParams into the same folder.
 # Table of contents
 1. [Introduction Paper](https://publications.waset.org/10012229/oilu-tag-a-projective-invariant-fiducial-system)
 2. [Homogles Paper](#)
-3. [Note](#note)
-4. [Data](#data)
-5. [Usage](#usage)
+3. [Contacts](#contacts)
+4. [Research Team](#researchteam)
+5. [Note](#note)
+6. [Data](#data)
+7. [Usage](#usage)
    1. [Arguments](#arguments)
    2. [Parameters](#parameters)
       - [OiluParams](#oiluparams)
       - [CamParams](#camparams)
-6. [ImageOilu](#imageoilu)
-7. [ImagePose](#imagepose)
-8. [VideoPose](#videopose)
-9. [VideoOilu](#videooilu)
+8. [ImageOilu](#imageoilu)
+9. [ImagePose](#imagepose)
+10. [VideoPose](#videopose)
+11. [VideoOilu](#videooilu)
 
 # Data
 [Paper Data](https://drive.google.com/drive/folders/1jdIsJ2OG1XgT6t2f4uxCFlXdlKXQPa6q)
+
 [Pose Demo 1](https://drive.google.com/file/d/1gz_tGgsR1FlNWoWTlC-yBbE8_ZTysYXZ/view?usp=drive_link)
+
 [Pose Demo 2](https://drive.google.com/file/d/1yCTPqHLpkWQg8QUTKmpBaSZAKYN2iZVJ/view?usp=drive_link)
+
 [Aruco vs April vs Oilu Pose](https://drive.google.com/file/d/1yCTPqHLpkWQg8QUTKmpBaSZAKYN2iZVJ/view?usp=drive_link)
+
 [Oilu Angle Test Demo](https://drive.google.com/file/d/196fuqixrlnn0MuhPN-Ywn9TtsfnzjlZR/view?usp=drive_link)
+
 [Oilu Occlusion Demo](https://drive.google.com/file/d/138uIHtFZn6-kkMc-Hggc1AbqI7c-cdoT/view?usp=drive_link)
+
 [Oilu No Occlusion Demo](https://drive.google.com/file/d/1r8d8QGxyI8b08BVkEPwoatB__vhOnpHG/view?usp=drive_link)
 
 # Usage
