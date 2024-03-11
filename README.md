@@ -17,7 +17,7 @@ Marker Website [oilucode.net](https://oilucode.net/)
 - [Professor Mostefai Messaoud](https://scholar.google.com/citations?user=HthK96IAAAAJ&hl=en)
 - [Belhadj Foudil](https://scholar.google.com/citations?user=GB1_-gEAAAAJ&hl=fr)
 - [Bengueddoudj Abdallah](https://scholar.google.com/citations?user=PxzaG5AAAAAJ&hl=fr)
-- [Idir Yacine . Lead developer and contributor](https://github.com/IDIRYACINE)
+- [Idir Yacine ](https://github.com/IDIRYACINE)
 
 # Note
 The provided binaries are compiled and tested under linux (fedora and ubuntu).
@@ -216,4 +216,11 @@ Usage: OMP_NUM_THREADS=n ./VideoOilu <videoPath> <output> <paramsFolder> <segmen
 ```
 ```
 Example: OMP_NUM_THREADS=2 ./VideoOilu "/home/path/to/video.mp4" "/home/path/to/output/vid.avi" "/home/path/to/params" 6 1 0
+```
+## Generator
+Used for generatin oiluMarkers 
+```
+Usage: OMP_NUM_THREADS=n ./Generator <outDir> <targetNUmber>
+Example: OMP_NUM_THREADS=2 ./Generator /home/path/to/out 999
+This would generate oilu codes from 0 to 999
 ```
